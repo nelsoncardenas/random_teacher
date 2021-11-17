@@ -1,6 +1,6 @@
 # 📝 Random Teacher
 <p align="center">
-        <img src="images/random_teacher.png" alt="Random Teacher logo" width="600"/>
+        <img src="https://user-images.githubusercontent.com/18086414/142094319-7183058a-fb8b-43ba-b150-7b9917212a73.png" alt="Random Teacher logo" width="600"/>
 </p>
 
         An approach to generate random tests automatically.
@@ -60,13 +60,13 @@ An example of the expected result will be two documents. Solutions and Questions
 ### Random questions
 
 <p align="center">
-        <img src="images/questions.png" alt="Random questions image" width="600"/>
+        <img src="https://user-images.githubusercontent.com/18086414/142094310-e3f3bfd7-d5ff-49ab-a619-d382e4cc7622.png" alt="Random questions image" width="600"/>
 </p>
 
 ### Random solutions
 
 <p align="center">
-        <img src="images/solutions.png" alt="Random solutions" width="600"/>
+        <img src="https://user-images.githubusercontent.com/18086414/142094325-1473407c-8a49-4eae-b3c7-0a0791d9b900.png" alt="Random solutions" width="600"/>
 </p>
 
 
