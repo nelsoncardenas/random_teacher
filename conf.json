@@ -1,0 +1,21 @@
+{
+    "STATISTICS_M1": {
+        "SOLUTIONS_TABLE_NAME": "solution dist.",
+        "SOLUTIONS_PATH": "data/statistics_module1_solutions.docx",
+        "QUESTIONS_PATH": "data/statistics_module1_questions.docx",
+        "N_QUESTION_TABLES": 10,
+        "HEADING_TEXT": "Statistics homework 1\n",
+        "QUESTION_TEXT": "We have the dollars won by a skilled bettor in 15 different games. We want to be able to describe in general how that bettor fared. <b>(1).*b<b> <i>Compute these summary statistics:  mean, median, mode, variance (var), standard deviation (std), minimum and maximum values*i<i>. <b>(2).*b<b> <i>Create a histogram to represent the frequency of the data.*i<i> <b>(3).*b<b> <i>What interesting findings do you have for the results?*i<i>\n\nNote: if there is more than one mode, select the one with the lowest value.",
+        "FOOTER_TEXT": "Statistics homework by Nelson C\u00e1rdenas",
+        "INTERVALS_STD": {
+            "min": 3,
+            "max": 7
+        },
+        "INTERVALS_MEAN": {
+            "min": 2,
+            "step": 3
+        },
+        "DISTRIBUTION_DISTANCE": 0.99,
+        "DIST_SIZE": 15
+    }
+}
