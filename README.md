@@ -28,11 +28,12 @@ This is how **📝 Random Teacher** arises, a code-based approach that allows yo
 ## How to use it?
 
 * Clone the repo.
-* Create the environment and install packages.
+* Create the environment and install packages. (This can change if you are using Windows)
 
         python3 -m venv math_tests
         source math_tests/bin/activate
-        python3 -m pip install -r requirements.txt
+        python3 -m pip install --upgrade pip
+	python3 -m pip install -r requirements.txt
 
 * Execute the random teacher command. With this instruction, we can generate the files for the statistics module `statistics_m1`
 
